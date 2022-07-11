@@ -1,0 +1,101 @@
+#bg{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+.navbar{
+    font-size: x-large;
+    color: black;
+    margin: 25px;
+    display: block;
+}
+
+#mypic{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 8%;
+    padding-bottom: 0%;
+}
+
+#main{
+    border: 1px solid black;
+    height: 97%;
+    width: 20%;
+    padding-top: 0%;
+    background-color: rgba(255, 165, 0, 0.3);
+    position: fixed;
+    text-decoration: none;
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+}
+
+#name{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#bg1{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 99%;
+    width: 79%;
+}
+
+#blur{
+    border: 0px solid;
+    background-color: rgba(240, 240, 240, 0.3);
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 79%;
+
+}
+
+#naam{
+    color: black;
+    font-size: xx-large;
+    text-align: right;
+    float: right;
+}
+
+.intro{
+    font: bolder; 
+    font-style: italic;
+
+}
+
+.socialicon{
+    height: 60px;
+    width: 60px;
+    padding: 2%;   
+}
+
+#links{
+    border: 0px solid;
+    background-color: rgba(255, 99, 71, 0.2);
+    width: 28%;
+    height: 100%;
+    text-align: center;
+    padding-top: 0px;
+}
+
+#linkpad{
+    padding-left: 850px;
+    padding-top: 0px;
+    width: 1300px;
+    height: 100%;
+}
+
